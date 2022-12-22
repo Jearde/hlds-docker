@@ -1,0 +1,26 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: hlds
+  namespace: hlds
+spec:
+  selector:
+      app: hlds
+  ports:
+  - protocol: UDP
+    port: 27020
+    targetPort: 27020
+    name: hltv
+  - protocol: UDP
+    port: 27015
+    targetPort: 27015
+    name: hdls
+  - protocol: UDP
+    port: 26900
+    targetPort: 26900
+    name: vac
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+    name: svd
+  type: LoadBalancer
