@@ -1,0 +1,50 @@
+Licence:-
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. By downloading this map, you are agreeing to the following.
+
+You are free to:
+
+Share — copy and redistribute the material with original author's permission in any medium or format,
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes.
+
+NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+_________________________________________________________________________________________________________________
+
+Original Authors:-
+
+Maury147 (fb.com/Maury147)(gamebanana.com/members/1281891) :- All static models except the bus model, Textures.
+
+Kurd Firstperson (fb.com/Blerhong71)(gamebanana.com/members/1280406) :- Animated jellyfish model, bus model.
+
+AkShit AKA GenoCide (fb.com/shitster67)(gamebanana.com/members/1317510) :- Mapping, textures, bus models, skybox, patrick's voice.
+
+__________________________________________________________________________________________________________________
+
+Contributing authors:-
+
+Nickelodeon and Spongebob squarepants :- Background musics and Flying Dutchman's howl.
+
+Digiffects :- Jellyfish killing sound.
+
+SoundStorm :- Underwater ambience.
+
+Unknown Artists :- A few textures.
+
+__________________________________________________________________________________________________________________
+
+A special thanks to:-
+
+gamestar110 (gamebanana.com/members/1363628) :- Helping with Sprites.
+
+Ring-A-Ding Rampage (gamebanana.com/members/1244443) :- Helping with Sprites.
+
+Timmycakes (gamebanana.com/members/549631) :- Playtesting.
+
+xCudi (gamebanana.com/members/1286115) :- Playtesting.

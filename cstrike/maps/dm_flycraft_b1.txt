@@ -1,0 +1,28 @@
+dm_flycraft_b1 by LiveWire 
+
+A tongue in cheek map based on dod_orange in minecraft textures.
+
+orange box lowers your gravity 
+blue box sets gravity to normal
+
+
+
+If you wish to edit/port this map contact at:-
+
+http://gamebanana.com/members/871509
+http://www.17buddies.net
+livewiremapping@live.co.uk
+
+Sorry but because of a  troll this bsp is released under
+Attribution-NonCommercial-NoDerivatives 4.0 International.
+
+A big thanks to those who provided the map assets.
+
+84353__creativeheroes__helmutscream-short.wav by creativeheroes
+Attribution 3.0 Unported (CC BY 3.0)
+freesound.org/people/creativeheroes
+
+lw.wad is released under Attribution-NonCommercial-ShareAlike 4.0 International, and is modified from ChesterChair`s minecraft PERSISTENCE texure pack. Get the original textures here www.minecraftforum.net/topic/839698-128x179-persistence-updated-may-15th
+
+minecraft.wad textures from A czemu?
+find it here http://cs.gamebanana.com/textures/3273

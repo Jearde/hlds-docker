@@ -1,0 +1,9 @@
+maps/gg_aim_orange_mini.bsp
+maps/gg_aim_orange_mini.res
+maps/gg_aim_orange_mini.txt
+gfx/env/sky555up.tga
+gfx/env/sky555dn.tga
+gfx/env/sky555lf.tga
+gfx/env/sky555rt.tga
+gfx/env/sky555ft.tga
+gfx/env/sky555bk.tga

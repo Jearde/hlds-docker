@@ -1,0 +1,24 @@
+//  dm_flycraft_b1.bsp by livewire
+
+global 
+
+{
+	
+ZOOM	1.77
+	
+ORIGIN	-352.00	112.02	1128.00
+	
+ROTATED	1
+
+}
+
+
+layer 
+
+{
+	
+IMAGE	"overviews/dm_flycraft_b1.bmp"
+	
+HEIGHT	-447
+
+}

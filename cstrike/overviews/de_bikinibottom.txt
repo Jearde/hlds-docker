@@ -1,0 +1,14 @@
+// overview description file for de_bikinibottom.bsp
+
+global 
+{
+	ZOOM	1.48
+	ORIGIN	-432 	-96	0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_bikinibottom.bmp"
+	HEIGHT	0
+}

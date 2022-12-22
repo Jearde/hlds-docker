@@ -1,0 +1,19 @@
+de_bikinibottom
+
+Story:- Plankton has hired terrorist to blow all the krabby patties with C4 explosives. Spongebob and Mr. Krabs have collected all the krabby patties in crates and have kept them in the backyards of Spongebob's house and Krusty Krabs. They have also called the counter terrorist squad to deal with this threat.
+
+Objective:-
+
+Terrorists:- Bomb one of the backyards to destroy krabby patties.
+
+Counter Terrorists:- Stop the terrorists from destroying the krabby patties
+
+
+Original Authors:-
+
+Maury147 (fb.com/Maury147)(gamebanana.com/members/1281891) :- All static models except the bus model, Textures.
+
+Kurd Firstperson (fb.com/Blerhong71)(gamebanana.com/members/1280406) :- Animated jellyfish model, bus model.
+
+AkShit AKA GenoCide (fb.com/shitster67)(gamebanana.com/members/1317510) :- Mapping, textures, bus models, skybox, patrick's voice.
+------------------------------------------------------------------------------------------------------------------
