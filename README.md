@@ -61,7 +61,7 @@ sudo systemctl restart docker
 ```bash	
 # Set HTTP Server address
 files/server.cfg
-sv_downloadurl "http://127.0.0.1"
+sv_downloadurl "http://10.0.100.127:8080"
 
 # Set Environment Variables
 docker-compose.yml
@@ -264,6 +264,15 @@ de_storm
 de_survivor
 de_torn
 de_vertigo
+
+# New
+he_minicanyon
+sj_streetball_pro^
+Water_pool_race
+de_mariobros
+fy_mario
+gg_danger_arv
+aim_deagle_short
 ```
 
 ## TODOs
