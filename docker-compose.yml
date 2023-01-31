@@ -7,7 +7,7 @@ services:
       GAME:        "cstrike"
       MAXPLAYERS:  "32"
       START_MAP:   "de_dust2"
-      SERVER_NAME: "AI Gaming: CStrike"
+      SERVER_NAME: "AI Gaming: CStrike v0.2"
       START_MONEY: "800"
       BUY_TIME:    "1.25"
       FRIENDLY_FIRE:   "1"
