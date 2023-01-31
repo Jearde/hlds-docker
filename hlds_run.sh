@@ -27,5 +27,5 @@ OPTIONS=("-game" "${GAME}" "+maxplayers" "${MAXPLAYERS}" "+map" "${START_MAP}" "
 
 set > "${CONFIG_FILE}"
 
-exec python3 -m http.server --directory ${STEAMAPPDIR}/cstrike 80 &
+exec python3 -m http.server --directory ${STEAMAPPDIR}/cstrike 8080 &
 exec "${EXECUTABLE}" "${OPTIONS[@]}" "${EXTRA_OPTIONS[@]}"

@@ -7,7 +7,7 @@ services:
       GAME:        "cstrike"
       MAXPLAYERS:  "32"
       START_MAP:   "de_dust2"
-      SERVER_NAME: "AI Gaming: CStrike v0.2"
+      SERVER_NAME: "AI Gaming: CStrike v0.3"
       START_MONEY: "800"
       BUY_TIME:    "1.25"
       FRIENDLY_FIRE:   "1"
@@ -19,4 +19,4 @@ services:
       - 27020:27020/udp
       - 27015:27015/udp
       - 27015:27015/tcp
-      - 80:80/tcp
+      - 8080:8080/tcp
