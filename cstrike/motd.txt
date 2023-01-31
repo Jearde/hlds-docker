@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AI Gaming</title>
+<style type="text/css">
+body {
+    background-position:right bottom;
+    width:100%;
+    height:100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: #424242;
+}
+</style>
+</head>
+<body>
+<h1 style="color: #e73a3a;">Welcome to the AI Gaming Server</h1>
+<h3 style="color: #eb6510;">created by Jearde</h3>
+<p><font size="2"><font face="Courier"><font color="#2199d6">
+<img src="http://i.imgur.com/f53EmiJ.jpg" width="100%" height="100%">
+Map Rotation For This Server:</font></font><br>
+<font face="Courier"><br>
+</font></font><font size="2" face="Courier" color="#25A737">
+# Bomb Defusal<br>
+de_dust2<br>
+de_inferno<br>
+de_nuke<br>
+de_train<br>
+de_bikinibottom_5<br>
+de_simpsons<br>
+de_springfield<br>
+# Hostage Rescue<br>
+cs_italy<br>
+cs_office<br>
+cs_assault<br>
+cs_mansion<br>
+
+# Fun Maps
+de_dust2_2x2<br>
+fy_pool_day<br>
+fy_snow<br>
+
+# Others
+awp_india<br>
+aim_map<br>
+
+# Gun Game
+gg_tetris_street<br>
+gg_aim_orange_mini<br>
+gg_bat<br>
+gg_headhunter<br>
+gg_minecraftempire_3<br>
+
+# Deathmatch
+dm_flycraft_b1<br>
+dm_ambush<br>
+dm_dust2<br>
+
+</font></p>
+</body>
+</html>
