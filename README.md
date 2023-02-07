@@ -59,12 +59,18 @@ sudo systemctl restart docker
 
 ## Adjust container settings
 ```bash	
-# Set HTTP Server address
-files/server.cfg
-sv_downloadurl "http://10.0.100.127:8080"
-
 # Set Environment Variables
 docker-compose.yml
+
+# Set HTTP Server address and port inside docker-compose.yml
+# If IP not defined, the public IP address will be used
+IP="127.0.0.1"
+PORT="8080"
+
+# Set HTTP another admin steamid or username inside docker-compose.yml (optional)
+ADMIN='"STEAM_0:0:123456" "" "abcdefghijklmnopqrstu" "ce"'
+ADMIN='"123.45.67.89" "" "abcdefghijklmnopqrstu" "de"'
+ADMIN='"My Name" "my_password" "abcdefghijklmnopqrstu" "a"'
 
 # Set game settings
 files/server.cfg # Server settings
@@ -96,7 +102,7 @@ docker run -d --name cstrike\
   -p 27020:27020/udp\
   -p 27015:27015/udp\
   -p 27015:27015\
-  -p 80:80\
+  -p 8080:8080\
   -e GAME="cstrike"\
   -e MAXPLAYERS="8"\
   -e START_MAP="de_dust2"\
@@ -107,6 +113,8 @@ docker run -d --name cstrike\
   -e RESTART_ON_FAIL="1"\
   -e SERVER_PASSWORD="secret"\
   -e RCON_PASSWORD="supersecret"\
+  -e IP="10.0.100.127"\
+  -e PORT="8080"\
   jearde/hlds:latest
 ```
 
@@ -125,11 +133,31 @@ docker stop $(docker ps -a -q)
 docker rm $(docker ps -a -q)
 
 docker build -t jearde/hlds:latest .
-docker run -it -p27015:27015 -p27015:27015/udp -u 0 -v "$(pwd)"/cstrike:/mnt/cstrike hlserver:latest /bin/bash
 cat cstrike/addons/metamod/plugins.ini 
 /bin/bash /bin/hlds_run.sh
 
-docker run -it -p27015:27015 -p27015:27015/udp jearde/hlds:latest /bin/bash /bin/hlds_run.sh
+docker run -it --name cstrike-debug\
+  -p 26900:26900/udp\
+  -p 27020:27020/udp\
+  -p 27015:27015/udp\
+  -p 27015:27015\
+  -p 8080:8080\
+  -e GAME="cstrike"\
+  -e MAXPLAYERS="8"\
+  -e START_MAP="de_dust2"\
+  -e SERVER_NAME="AI Gaming"\
+  -e START_MONEY="800"\
+  -e BUY_TIME="0.25"\
+  -e FRIENDLY_FIRE="1"\
+  -e RESTART_ON_FAIL="1"\
+  -e SERVER_PASSWORD="secret"\
+  -e RCON_PASSWORD="supersecret"\
+  -e IP="10.0.100.127"\
+  -e PORT="8080"\
+  -e ADMIN='"STEAM_0:1:20416393" "" "abcdefghijklmnopqrstu" "ce"'\
+  jearde/hlds:latest /bin/bash
+
+
 meta list
 
 docker container ls

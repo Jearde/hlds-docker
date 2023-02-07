@@ -30,6 +30,7 @@ RUN apt-get -y update && apt-get install -y --no-install-recommends \
     unzip \
     xz-utils \
     zip \
+    iproute2 \
  && apt-get -y autoremove \
  && rm -rf /var/lib/apt/lists/*
 
@@ -54,12 +55,13 @@ RUN mkdir -p "$HOME/.steam" \
 WORKDIR /opt/steam/hlds
 
 # Copy default config
-ADD files/steam_appid.txt steam_appid.txt
-COPY cstrike cstrike
-COPY cstrike /mnt/cstrike
-ADD files/mapcycle.txt cstrike/mapcycle.txt
-ADD files/server.cfg cstrike/server.cfg
-ADD lib/dproto/dproto.cfg cstrike/dproto.cfg
+ADD --chown=steam files/steam_appid.txt steam_appid.txt
+COPY --chown=steam cstrike cstrike
+COPY --chown=steam cstrike /mnt/cstrike
+ADD --chown=steam files/mapcycle.txt cstrike/mapcycle.txt
+ADD --chown=steam files/server.cfg cstrike/server.cfg
+ADD --chown=steam lib/dproto/dproto.cfg cstrike/dproto.cfg
+RUN cp -r valve/media cstrike/media
 
 # Make changes on files
 # Add admins

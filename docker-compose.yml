@@ -7,13 +7,16 @@ services:
       GAME:        "cstrike"
       MAXPLAYERS:  "32"
       START_MAP:   "de_dust2"
-      SERVER_NAME: "AI Gaming: CStrike v0.3"
+      SERVER_NAME: "AI Gaming: CStrike v0.4"
       START_MONEY: "800"
       BUY_TIME:    "1.25"
       FRIENDLY_FIRE:   "1"
       RESTART_ON_FAIL: "1"
       # SERVER_PASSWORD: "secret"
       RCON_PASSWORD:   "supersecret"
+      # IP: "10.0.100.127"
+      PORT: "8080"
+      ADMIN: '"STEAM_0:1:20416393" "" "abcdefghijklmnopqrstu" "ce"'
     ports:
       - 26900:26900/udp
       - 27020:27020/udp
