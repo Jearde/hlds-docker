@@ -301,6 +301,7 @@ de_mariobros
 fy_mario
 gg_danger_arv
 aim_deagle_short
+zm_minecraft
 ```
 
 ## TODOs
