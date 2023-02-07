@@ -3,6 +3,6 @@
 	"vtableOffsets" :
 	{
 		"windows" : 0x0,
-		"linux" : 0x8
+		"linux" : 0x0
 	}
 }

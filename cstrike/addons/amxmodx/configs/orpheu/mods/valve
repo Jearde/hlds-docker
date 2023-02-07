@@ -3,6 +3,6 @@
 	"pev" :
 	{
 		"windows" : 4,
-		"linux" : 0
+		"linux" : 4
 	}
 }
