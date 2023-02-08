@@ -272,6 +272,11 @@ dm_flycraft_b1
 dm_ambush
 dm_dust2
 
+# Zombie Escape
+ze_ice4cap_lg
+ze_jurassickopark3_lg
+ze_campescape_lg
+
 # Not in mapcycle
 as_oilrig
 cs_747
@@ -302,8 +307,6 @@ fy_mario
 gg_danger_arv
 aim_deagle_short
 zm_minecraft
-ze_ice4cap_lg
-ze_jurassickopark3_lg
 ```
 
 ## TODOs
