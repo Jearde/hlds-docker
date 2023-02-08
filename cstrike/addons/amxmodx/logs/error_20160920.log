@@ -1,0 +1,755 @@
+L 09/20/2016 - 01:51:40: Start of error session.
+L 09/20/2016 - 01:51:40: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 01:51:40: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 01:51:40: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 01:51:40: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 02:16:45: Start of error session.
+L 09/20/2016 - 02:16:45: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 02:16:45: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 02:16:45: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 02:16:45: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 03:33:07: Start of error session.
+L 09/20/2016 - 03:33:07: Info (map "ze_amazonas_beta") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 03:33:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:33:18: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:18: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:33:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:33:43: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:43: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:33:49: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:49: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:33:56: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:33:56: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:33:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:06: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:06: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:25: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:25: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:36: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:36: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:43: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:43: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:34:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:34:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:34:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:35:00: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:35:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:35:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:35:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:35:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:35:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:35:22: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:35:22: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:35:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:35:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:35:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:35:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:35:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:35:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:35:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 03:36:28: [FAKEMETA] Invalid entity
+L 09/20/2016 - 03:36:28: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 03:36:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 06:02:16: Start of error session.
+L 09/20/2016 - 06:02:16: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 06:02:16: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 06:02:16: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 06:02:16: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 06:27:19: Start of error session.
+L 09/20/2016 - 06:27:19: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 06:27:19: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 06:27:19: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 06:27:19: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 08:08:11: Start of error session.
+L 09/20/2016 - 08:08:11: Info (map "ze_area51_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 08:08:11: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:08:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:08:14: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:08:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:08:59: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:08:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:09:01: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:09:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:09:10: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:09:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:09:23: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:09:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:09:42: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:09:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:10:22: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:10:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:12:43: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:12:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:12:54: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:12:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:13:16: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 08:13:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 08:57:44: Start of error session.
+L 09/20/2016 - 08:57:44: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 08:57:44: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 08:57:44: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 08:57:44: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 09:37:53: Start of error session.
+L 09/20/2016 - 09:37:53: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 09:37:53: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 09:37:53: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 09:37:53: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 10:02:57: Start of error session.
+L 09/20/2016 - 10:02:57: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 10:02:57: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 10:02:57: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 10:02:57: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 10:53:18: Start of error session.
+L 09/20/2016 - 10:53:18: Info (map "ze_black_train_v1") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 10:53:18: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:18: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:24: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:24: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:30: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:30: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:36: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:36: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:42: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 10:53:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:42: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:42: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:46: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:46: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:49: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:49: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:51: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:51: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:52: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:52: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:54: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:54: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:55: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:55: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:57: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:57: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:53:58: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:53:58: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:53:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:00: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:03: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:03: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:04: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:04: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:06: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:06: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:09: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:09: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:10: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:10: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:13: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:13: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:15: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:15: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:16: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:16: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:18: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:18: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:19: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:19: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:22: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:22: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:24: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:24: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:25: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:25: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:29: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 10:54:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:30: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:30: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:54:31: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:54:31: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:54:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:57:50: Start of error session.
+L 09/20/2016 - 10:57:50: Info (map "ze_osnapitzari_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 10:57:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:57:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:57:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:03: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:03: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:31: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:31: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:41: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:41: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:43: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:43: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:58:59: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:58:59: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:58:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:15: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:15: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:20: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:20: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:33: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:33: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:42: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:42: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 10:59:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 10:59:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 10:59:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:03: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:03: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:10: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:10: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:17: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:17: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:30: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:30: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:34: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:34: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:00:45: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:00:45: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:00:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:08: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:08: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:18: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:18: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:25: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:25: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:39: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:39: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:44: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:44: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:01:55: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:01:55: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:01:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:05: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:05: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:14: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:14: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:02:56: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:02:56: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:02:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:03:04: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:03:04: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:03:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:03:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:03:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:03:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:03:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:03:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:03:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:03:42: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:03:42: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:03:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:10: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:10: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:18: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:18: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:25: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:25: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:44: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:44: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:51: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:51: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:04:56: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:04:56: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:04:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:10: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:10: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:40: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:40: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:05:59: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:05:59: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:05:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:06:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:06:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:06:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:06:16: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:06:16: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:06:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:06:20: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:06:20: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:06:36: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:06:36: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:06:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:30: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:30: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:33: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:33: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:38: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:38: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:07:55: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:07:55: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:07:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:15: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:15: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:22: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:22: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:33: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:33: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:37: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:37: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:44: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:44: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:09:52: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:09:52: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:09:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:01: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:01: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:04: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:04: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:20: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:20: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:34: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:34: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:10:39: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:10:39: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:10:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:11:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:11:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:11:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:11:57: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:11:57: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:11:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:05: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:05: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:11: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:11: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:19: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:19: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:24: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:24: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:28: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:28: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 11:12:35: [FAKEMETA] Invalid entity
+L 09/20/2016 - 11:12:35: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 11:12:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:51:29: Start of error session.
+L 09/20/2016 - 12:51:29: Info (map "ze_area51_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 12:51:29: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:51:29: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:51:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:54:25: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:54:25: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:54:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:54:32: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:54:32: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:54:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:54:49: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:54:49: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:54:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:55:11: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:55:11: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:55:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:55:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:55:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:55:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:55:41: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:55:41: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:55:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:55:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:55:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:55:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:56:02: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:56:02: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:56:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:56:04: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:56:04: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:56:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:56:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:56:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:56:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:57:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:57:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:57:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:57:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:57:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:57:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:57:36: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:57:36: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:57:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:57:43: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:57:43: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:57:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:12: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 12:58:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:14: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 12:58:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:16: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:16: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:30: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:30: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:35: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:35: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:39: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:39: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:43: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:43: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:47: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:47: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:50: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:50: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:53: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 12:58:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:55: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:55: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:58:59: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:58:59: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:58:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:59:00: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:59:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:59:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:59:02: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:59:02: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:59:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 12:59:06: [FAKEMETA] Invalid entity
+L 09/20/2016 - 12:59:06: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 12:59:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:09:11: Start of error session.
+L 09/20/2016 - 13:09:11: Info (map "ze_ice4cap_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 13:09:11: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:09:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:09:12: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:09:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:09:23: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:09:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:10:12: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:10:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:10:58: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:10:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:11:05: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:11:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:11:32: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:11:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:15:45: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:15:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:15:46: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:15:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:16:38: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:16:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:17:13: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:17:34: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:17:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 13:17:57: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/20/2016 - 13:17:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:26:41: Start of error session.
+L 09/20/2016 - 14:26:41: Info (map "ze_black_train_v1") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 14:26:41: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:26:41: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:26:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:27:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:27:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:27:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:27:33: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:27:33: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:27:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:28:42: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:28:42: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:28:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:29:00: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:29:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:29:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:29:05: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:29:05: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:29:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:30:09: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:30:09: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:30:09: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:30:09: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:34:54: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:34:54: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:34:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:35:00: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:35:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:35:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:35:06: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:35:06: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:35:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:19: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:19: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:26: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:26: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:41: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:41: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:48: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:48: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:37:55: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:37:55: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:37:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:07: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:07: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:12: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:12: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:21: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:21: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:27: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:27: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:33: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:33: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:39: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:39: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:42: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:42: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:47: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:47: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:53: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:53: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:38:54: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:38:54: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:38:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 14:39:06: [FAKEMETA] Invalid entity
+L 09/20/2016 - 14:39:06: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/20/2016 - 14:39:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/20/2016 - 15:31:42: Start of error session.
+L 09/20/2016 - 15:31:42: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 15:31:42: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 15:31:42: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 15:31:42: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 15:56:46: Start of error session.
+L 09/20/2016 - 15:56:46: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 15:56:46: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 15:56:46: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 15:56:46: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 19:42:25: Start of error session.
+L 09/20/2016 - 19:42:25: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 19:42:25: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 19:42:25: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 19:42:25: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 20:07:29: Start of error session.
+L 09/20/2016 - 20:07:29: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 20:07:29: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 20:07:29: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 20:07:29: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 22:37:54: Start of error session.
+L 09/20/2016 - 22:37:54: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 22:37:54: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 22:37:54: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 22:37:54: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/20/2016 - 23:02:58: Start of error session.
+L 09/20/2016 - 23:02:58: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160920.log")
+L 09/20/2016 - 23:02:58: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/20/2016 - 23:02:58: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/20/2016 - 23:02:58: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit

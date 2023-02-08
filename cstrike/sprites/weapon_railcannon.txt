@@ -1,0 +1,7 @@
+6
+weapon		640 RailCannon/railcannon	0	0	170	45
+weapon_s		640 RailCannon/railcannon	0	45	170	45
+ammo			640 RailCannon/railcannon	0	92	24	25
+d_railcannon	640 RailCannon/railcannon	51	92	48	16
+crosshair		640 crosshairs			24	0	24	24
+autoaim		640 crosshairs			0	72	24	24

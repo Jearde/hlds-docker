@@ -1,0 +1,4 @@
+3
+weapon		640 Janus7/Janus7	0	0	170	45
+weapon_s		640 Janus7/Janus7	0	45	170	45
+ammo			640 Janus7/640hud7x	73	231	24	24

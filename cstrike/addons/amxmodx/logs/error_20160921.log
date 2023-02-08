@@ -1,0 +1,59 @@
+L 09/21/2016 - 02:48:36: Start of error session.
+L 09/21/2016 - 02:48:36: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 02:48:36: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 02:48:36: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 02:48:36: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 03:13:40: Start of error session.
+L 09/21/2016 - 03:13:40: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 03:13:40: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 03:13:40: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 03:13:40: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 06:59:13: Start of error session.
+L 09/21/2016 - 06:59:13: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 06:59:13: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 06:59:13: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 06:59:13: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 07:24:17: Start of error session.
+L 09/21/2016 - 07:24:17: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 07:24:17: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 07:24:17: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 07:24:17: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 11:08:40: Start of error session.
+L 09/21/2016 - 11:08:40: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 11:08:40: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 11:08:40: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 11:08:40: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 11:23:51: Start of error session.
+L 09/21/2016 - 11:23:51: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 11:23:51: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 11:23:51: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 11:23:51: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 11:47:58: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/21/2016 - 11:47:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2016 - 11:48:00: [FAKEMETA] Invalid entity
+L 09/21/2016 - 11:48:00: [AMXX] Run time error 10 (plugin "WeaponTrail.amxx") (native "pev") - debug not enabled!
+L 09/21/2016 - 11:48:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2016 - 12:35:31: Start of error session.
+L 09/21/2016 - 12:35:31: Info (map "ze_jurassicpark2_v1") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 12:35:31: [AMXX] Run time error 4 (plugin "m79.amxx") - debug not enabled!
+L 09/21/2016 - 12:35:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/21/2016 - 17:14:53: Start of error session.
+L 09/21/2016 - 17:14:53: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 17:14:53: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 17:14:53: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 17:14:53: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 17:39:58: Start of error session.
+L 09/21/2016 - 17:39:58: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 17:39:58: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 17:39:58: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 17:39:58: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 21:25:37: Start of error session.
+L 09/21/2016 - 21:25:37: Info (map "ze_chaka_escape") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 21:25:37: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 21:25:37: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 21:25:37: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit
+L 09/21/2016 - 21:50:41: Start of error session.
+L 09/21/2016 - 21:50:41: Info (map "ze_egypt_two_lg") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 21:50:41: [AMXX] Plugin ("ze_showescapebutton.amxx") is setting itself as failed.
+L 09/21/2016 - 21:50:41: [AMXX] Plugin says: [ZE] Zombie Escape Button not found.
+L 09/21/2016 - 21:50:41: [AMXX] Run time error 1 (plugin "ze_showescapebutton.amxx") - forced exit

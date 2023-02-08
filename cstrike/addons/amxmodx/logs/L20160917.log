@@ -1,0 +1,202 @@
+L 09/17/2016 - 07:36:37: [mapsmenu.amxx] Cmd: "Raheem<1081><STEAM_0:0:2482176><>" changelevel "ze_osnapitzari_lg"
+L 09/17/2016 - 07:36:39: -------- Mapchange to ze_osnapitzari_lg --------
+L 09/17/2016 - 07:36:43: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 07:36:43: [amxbans_core.amxx] Login: "Raheem<1081><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 07:36:43: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 07:36:44: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 07:38:40: [mapsmenu.amxx] Cmd: "Raheem<1081><STEAM_0:0:2482176><>" changelevel "ze_blackmesa_v6"
+L 09/17/2016 - 07:38:42: -------- Mapchange to ze_blackmesa_v6 --------
+L 09/17/2016 - 07:38:46: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 07:38:46: [amxbans_core.amxx] Login: "Raheem<1081><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 07:38:46: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 07:38:47: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 07:42:43: [pluginmenu.amxx] Cmd: "Raheem<1081><STEAM_0:0:2482176><>" set cvar (name "m79_knockback") (value "5")
+L 09/17/2016 - 08:03:46: -------- Mapchange to ze_campescape_lg --------
+L 09/17/2016 - 08:03:50: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 08:03:50: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 08:03:51: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 08:28:50: -------- Mapchange to ze_chaka_escape --------
+L 09/17/2016 - 08:28:54: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 08:28:55: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 08:28:56: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 08:54:02: -------- Mapchange to ze_assault_escape2 --------
+L 09/17/2016 - 08:54:06: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 08:54:08: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 08:54:09: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 09:19:08: -------- Mapchange to ze_area51_v1 --------
+L 09/17/2016 - 09:19:12: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 09:19:14: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 09:19:15: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 09:29:13: [amxbans_core.amxx] Login: "Raheem<1194><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 09:29:53: [mapsmenu.amxx] Vote: "Raheem<1194><STEAM_0:0:2482176><>" vote maps (map#1 "ze_jurassickpark2_lg") (map#2 "ze_jurassicpark4") (map#3 "") (map#4 "")
+L 09/17/2016 - 09:30:06: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to ze_jurassicpark4
+L 09/17/2016 - 09:30:07: [mapsmenu.amxx] Vote: Result accepted
+L 09/17/2016 - 09:30:09: -------- Mapchange to ze_jurassicpark4 --------
+L 09/17/2016 - 09:30:13: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 09:30:13: [amxbans_core.amxx] Login: "Raheem<1194><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 09:30:15: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 09:30:16: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 09:31:16: [amxbans_main.amxx] Raheem<1194><STEAM_0:0:2482176><TERRORIST> has banned El-NOOB<STEAM_0:0:1819650742> for 30 minutes (30 Minutes). Reason: TEST.
+L 09/17/2016 - 09:31:51: [amxbans_main.amxx] Raheem<1194><STEAM_0:0:2482176><TERRORIST> has banned Misr -- ZE<STEAM_0:0:1338680631> for 30 minutes (30 Minutes). Reason: Cheater.
+L 09/17/2016 - 09:54:19: [amxbans_core.amxx] Login: "Raheem<1213><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 09:55:14: -------- Mapchange to ze_ice4cap_lg --------
+L 09/17/2016 - 09:55:18: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 09:55:18: [amxbans_core.amxx] Login: "Raheem<1213><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 09:55:21: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 09:55:21: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 09:55:58: [mapsmenu.amxx] Cmd: "Raheem<1213><STEAM_0:0:2482176><>" changelevel "ze_osnapitzari_lg"
+L 09/17/2016 - 09:56:01: -------- Mapchange to ze_osnapitzari_lg --------
+L 09/17/2016 - 09:56:05: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 09:56:05: [amxbans_core.amxx] Login: "Raheem<1213><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 09:56:06: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 09:56:07: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 10:03:05: [plmenu.amxx] Cmd: "Raheem<1213><STEAM_0:0:2482176><>" slay "ismail killer<1223><STEAM_0:0:812545027><>"
+L 09/17/2016 - 10:21:05: -------- Mapchange to ze_egypt_two_lg --------
+L 09/17/2016 - 10:21:09: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 10:21:09: [amxbans_core.amxx] Login: "Raheem<1213><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 10:21:12: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 10:21:13: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 10:46:09: -------- Mapchange to ze_jurassicpark2_v1 --------
+L 09/17/2016 - 10:46:13: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 10:46:15: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 10:46:16: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 11:11:24: -------- Mapchange to ze_blackmesa_v6 --------
+L 09/17/2016 - 11:11:28: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 11:11:30: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 11:11:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 11:36:33: -------- Mapchange to ze_military_v1_exp --------
+L 09/17/2016 - 11:36:37: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 11:36:38: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 11:36:39: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 12:01:37: -------- Mapchange to ze_campescape_lg --------
+L 09/17/2016 - 12:01:41: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 12:01:42: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 12:01:43: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 12:26:41: -------- Mapchange to ze_chaka_escape --------
+L 09/17/2016 - 12:26:45: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 12:26:46: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 12:26:47: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 12:51:45: -------- Mapchange to ze_egypt_two_lg --------
+L 09/17/2016 - 12:51:49: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 12:51:49: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 12:51:50: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 13:16:49: -------- Mapchange to ze_ice4cap_lg --------
+L 09/17/2016 - 13:16:53: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 13:16:55: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 13:16:56: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 13:16:57: [amxbans_core.amxx] Login: "Raheem<1357><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 13:32:54: [ban_sameips.amxx] IP 105.154.76.182 has been banned for 30 minutes
+L 09/17/2016 - 13:41:54: -------- Mapchange to ze_jurassicpark4 --------
+L 09/17/2016 - 13:41:58: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 13:41:58: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 13:41:59: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 14:06:58: -------- Mapchange to ze_amazonas_beta --------
+L 09/17/2016 - 14:07:02: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 14:07:03: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 14:07:03: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 14:16:32: [ban_sameips.amxx] IP 105.154.76.182 has been banned for 30 minutes
+L 09/17/2016 - 14:32:03: -------- Mapchange to ze_assault_escape2 --------
+L 09/17/2016 - 14:32:07: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 14:32:08: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 14:32:09: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 14:54:23: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 14:57:22: -------- Mapchange to ze_area51_v1 --------
+L 09/17/2016 - 14:57:27: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 14:57:27: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 14:57:28: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 14:57:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 15:22:28: -------- Mapchange to ze_jurassickpark3_lg --------
+L 09/17/2016 - 15:22:32: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 15:22:33: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 15:22:33: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 15:22:34: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 15:35:32: [mapsmenu.amxx] Cmd: "Raheem<1463><STEAM_0:0:2482176><>" changelevel "ze_osnapitzari_lg"
+L 09/17/2016 - 15:35:34: -------- Mapchange to ze_osnapitzari_lg --------
+L 09/17/2016 - 15:35:38: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 15:35:39: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 15:35:39: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 15:35:40: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 16:00:39: -------- Mapchange to ze_jurassickpark2_lg --------
+L 09/17/2016 - 16:00:43: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 16:00:44: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 16:00:45: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 16:00:46: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 16:24:54: [plmenu.amxx] Cmd: "Raheem<1463><STEAM_0:0:2482176><>" slay "CPT D7a HE<1667><STEAM_0:0:466713367><>"
+L 09/17/2016 - 16:25:49: -------- Mapchange to ze_jurassicpark2_v1 --------
+L 09/17/2016 - 16:25:54: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 16:25:54: [amxbans_core.amxx] Login: "Raheem<1463><STEAM_0:0:2482176><>" became an admin (account "Raheem") (access "abcdefghijklmnopqrstu") (address "156.211.187.156") (nick "") (static 0)
+L 09/17/2016 - 16:25:55: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 16:25:56: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 16:50:54: -------- Mapchange to ze_jurassicpark4 --------
+L 09/17/2016 - 16:50:58: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 16:50:59: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 16:51:00: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 17:15:58: -------- Mapchange to ze_chaka_escape --------
+L 09/17/2016 - 17:16:02: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 17:16:03: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 17:16:04: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 17:21:19: [ban_sameips.amxx] IP 178.79.2.213 has been banned for 30 minutes
+L 09/17/2016 - 17:41:03: -------- Mapchange to ze_area51_v1 --------
+L 09/17/2016 - 17:41:07: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 17:41:07: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 17:41:08: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 18:06:07: -------- Mapchange to ze_jurassicpark_a1 --------
+L 09/17/2016 - 18:06:11: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 18:06:11: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 18:06:12: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 18:31:11: -------- Mapchange to ze_jurassickpark2_lg --------
+L 09/17/2016 - 18:31:15: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 18:31:16: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 18:31:17: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 18:56:15: -------- Mapchange to ze_military_v1_exp --------
+L 09/17/2016 - 18:56:20: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 18:56:20: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 18:56:21: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 19:21:20: -------- Mapchange to ze_amazonas_beta --------
+L 09/17/2016 - 19:21:24: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 19:21:24: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 19:21:25: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 19:46:24: -------- Mapchange to ze_area51_lg --------
+L 09/17/2016 - 19:46:28: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 19:46:28: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 19:46:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 20:11:28: -------- Mapchange to ze_assault_escape2 --------
+L 09/17/2016 - 20:11:32: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 20:11:33: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 20:11:33: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 20:36:32: -------- Mapchange to ze_black_train_v1 --------
+L 09/17/2016 - 20:36:36: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 20:36:37: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 20:36:38: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 21:01:36: -------- Mapchange to ze_blackmesa_v6 --------
+L 09/17/2016 - 21:01:40: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 21:01:40: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 21:01:41: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 21:26:40: -------- Mapchange to ze_campescape_lg --------
+L 09/17/2016 - 21:26:44: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 21:26:44: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 21:26:45: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 21:51:44: -------- Mapchange to ze_chaka_escape --------
+L 09/17/2016 - 21:51:48: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 21:51:48: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 21:51:49: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 22:16:48: -------- Mapchange to ze_egypt_two_lg --------
+L 09/17/2016 - 22:16:52: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 22:16:52: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 22:16:53: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 22:41:52: -------- Mapchange to ze_ice4cap_lg --------
+L 09/17/2016 - 22:41:56: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 22:41:56: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 22:41:57: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 23:06:56: -------- Mapchange to ze_jurassickpark2_lg --------
+L 09/17/2016 - 23:07:01: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 23:07:01: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 23:07:02: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 23:32:01: -------- Mapchange to ze_amazonas_beta --------
+L 09/17/2016 - 23:32:05: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 23:32:06: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 23:32:06: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 09/17/2016 - 23:57:06: -------- Mapchange to ze_area51_lg --------
+L 09/17/2016 - 23:57:09: [amxbans_core.amxx] [AMXBans] WARNING: admin.amxx plugin running! stopped.
+L 09/17/2016 - 23:57:10: [amxbans_main.amxx] [AMXBans] AMXBans 6.13 is online
+L 09/17/2016 - 23:57:11: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
